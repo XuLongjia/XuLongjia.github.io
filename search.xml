@@ -1,6 +1,17 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title><![CDATA[Git的常用指令]]></title>
+    <url>%2F2018%2F08%2F18%2Fgit%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4%2F</url>
+    <content type="text"><![CDATA[mkdir： XX (创建一个空目录 XX 指目录名)pwd： 显示当前目录的路径。git init 把当前的目录变成可以管理的 git仓库，生成隐藏.git 文件。git add XX 把 xx 文件添加到暂存区去。git commit –m “XX” 提交文件 –m 后面的是注释。git status 查看仓库状态git diff XX 查看 XX 文件修改了那些内容git log 查看历史记录git reset –hard HEAD^ 或者 git reset –hard HEAD~ 回退到上一个版本(如果想回退到 100个版本，使用 git reset –hard HEAD~100 )cat XX 查看 XX 文件内容git reflog 查看历史记录的版本号 idgit checkout — XX 把 XX 文件在工作区的修改全部撤销git rm XX 删除 XX 文件git remote add origin https://github.com/tugenhua0707/test.git 关联一个远程库git clone https://github.com/tugenhua0707/test.git 从远程库中克隆git checkout –b dev 创建 dev 分支 并切换到 dev 分支上git branch 查看当前所有的分支git checkout master 切换回 master 分支git merge dev 在当前的分支上合并 dev 分支git branch –d dev 删除 dev 分支git branch name 创建分支git stash 把当前的工作隐藏起来 等以后恢复现场后继续工作git stash list 查看所有被隐藏的文件列表git stash apply 恢复被隐藏的文件，但是内容不删除git stash drop 删除文件git stash pop 恢复文件的同时 也删除文件git remote 查看远程库的信息git remote –v 查看远程库的详细信息git push origin master Git 会把 master 分支推送到远程库对应的远程分支上]]></content>
+      <categories>
+        <category>Git和Github</category>
+      </categories>
+      <tags>
+        <tag>Git</tag>
+      </tags>
+  </entry>
+  <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F08%2F18%2Fhello-world%2F</url>
     <content type="text"><![CDATA[欢迎访问，这是徐珑嘉的个人博客这是摘要 这是全文 个人博客这个博客是使用hexo框架搭建的，主题是 next 如何写文章？hexo支持makedown语法，具体见：https://www.jianshu.com/p/191d1e21f7ed (markdown 基本语法) 设置文章字体的大小、颜色使用html语法写出来就好了:如下： 设置颜色 设置大小 设置颜色和大小居中： 这一行需要居中]]></content>

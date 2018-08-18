@@ -3,12 +3,12 @@
   <entry>
     <title><![CDATA[Hello World]]></title>
     <url>%2F2018%2F08%2F18%2Fhello-world%2F</url>
-    <content type="text"><![CDATA[##欢迎访问 这是徐珑嘉的个人博客]]></content>
+    <content type="text"><![CDATA[欢迎访问，这是徐珑嘉的个人博客个人博客这个博客是使用hexo框架搭建的，主题是 next 如何写文章？hexo支持makedown语法，具体见：https://www.jianshu.com/p/191d1e21f7ed (markdown 基本语法) 设置文章字体的大小、颜色使用html语法写出来就好了:如下： 设置颜色 设置大小 设置颜色和大小]]></content>
       <categories>
         <category>Hello</category>
       </categories>
       <tags>
-        <tag>hello</tag>
+        <tag>Hello</tag>
       </tags>
   </entry>
 </search>

@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://XuLongjia.github.io/"/>
-  <updated>2018-08-18T11:27:08.225Z</updated>
+  <updated>2018-08-18T11:36:39.544Z</updated>
   <id>https://XuLongjia.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://XuLongjia.github.io/2018/08/18/hello-world/"/>
     <id>https://XuLongjia.github.io/2018/08/18/hello-world/</id>
     <published>2018-08-18T04:56:17.786Z</published>
-    <updated>2018-08-18T11:27:08.225Z</updated>
+    <updated>2018-08-18T11:36:39.544Z</updated>
     
     <summary type="html">
     
@@ -29,8 +29,7 @@
       
         
         
-          &lt;p&gt;##欢迎访问&lt;/p&gt;
-&lt;h2 id=&quot;这是徐珑嘉的个人博客&quot;&gt;&lt;a href=&quot;#这是徐珑嘉的个人博客&quot; class=&quot;headerlink&quot;
+          &lt;h2 id=&quot;欢迎访问，这是徐珑嘉的个人博客&quot;&gt;&lt;a href=&quot;#欢迎访问，这是徐珑嘉的个人博客&quot; class=&quot;headerlink&quot; title=&quot;欢迎访问，这是徐珑嘉的个人博客&quot;&gt;&lt;/a&gt;欢迎访问，这是徐珑嘉的个人博客&lt;/h2&gt;&lt;h3 id=&quot;个人博客&quot;&gt;&lt;a
         
       
     
@@ -39,7 +38,7 @@
       <category term="Hello" scheme="https://XuLongjia.github.io/categories/Hello/"/>
     
     
-      <category term="hello" scheme="https://XuLongjia.github.io/tags/hello/"/>
+      <category term="Hello" scheme="https://XuLongjia.github.io/tags/Hello/"/>
     
   </entry>
   

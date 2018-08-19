@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://XuLongjia.github.io/"/>
-  <updated>2018-08-19T02:09:05.090Z</updated>
+  <updated>2018-08-19T06:24:51.256Z</updated>
   <id>https://XuLongjia.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>使用Github和hexo搭建个人网站</title>
+    <link href="https://XuLongjia.github.io/2018/08/19/%E4%BD%BF%E7%94%A8Github%E5%92%8Chexo%E6%90%AD%E5%BB%BA%E4%B8%AA%E4%BA%BA%E7%BD%91%E7%AB%99/"/>
+    <id>https://XuLongjia.github.io/2018/08/19/使用Github和hexo搭建个人网站/</id>
+    <published>2018-08-19T05:29:48.000Z</published>
+    <updated>2018-08-19T06:24:51.256Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt; &lt;center&gt; 个人博客的搭建与使用 &lt;/center&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;使用Hexo 和Github 搭建个人网站  &lt;/li&gt;
+&lt;li&gt;个人网站的配置与主题更换&lt;/li&gt;
+&lt;li&gt;开始写文章&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3
+        
+      
+    
+    </summary>
+    
+      <category term="Github" scheme="https://XuLongjia.github.io/categories/Github/"/>
+    
+    
+      <category term="Github" scheme="https://XuLongjia.github.io/tags/Github/"/>
+    
+  </entry>
   
   <entry>
     <title>Git的常用指令</title>

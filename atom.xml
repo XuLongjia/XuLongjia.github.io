@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <title>Personal Blog</title>
+  <title>XuLongjia Blog</title>
   
-  <subtitle>钢铁是怎样没有练成的</subtitle>
+  <subtitle>一个学习笔记</subtitle>
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://XuLongjia.github.io/"/>
-  <updated>2018-08-18T15:22:09.882Z</updated>
+  <updated>2018-08-19T02:09:05.090Z</updated>
   <id>https://XuLongjia.github.io/</id>
   
   <author>
@@ -21,7 +21,7 @@
     <link href="https://XuLongjia.github.io/2018/08/18/git%E7%9A%84%E5%B8%B8%E7%94%A8%E6%8C%87%E4%BB%A4/"/>
     <id>https://XuLongjia.github.io/2018/08/18/git的常用指令/</id>
     <published>2018-08-18T15:20:00.000Z</published>
-    <updated>2018-08-18T15:22:09.882Z</updated>
+    <updated>2018-08-19T02:09:05.090Z</updated>
     
     <summary type="html">
     
@@ -29,7 +29,8 @@
       
         
         
-          &lt;p&gt;mkdir： XX (创建一个空目录 XX 指目录名)&lt;br&gt;pwd： 显示当前目录的路径。&lt;br&gt;git init 把当前的目录变成可以管理的 git仓库，生成隐藏.git 文件。&lt;br&gt;git add XX 把 xx 文件添加到暂存区去。&lt;br&gt;git commit
+          &lt;pre&gt;&lt;code&gt;#以下是Git的常用指令
+&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;mkdir： XX (创建一个空目录 XX 指目录名)&lt;br&gt;pwd： 显示当前目录的路径。&lt;br&gt;git init 把当前的目录变成可以管理的 git仓库，生成隐藏.git 文件。&lt;br&gt;git
         
       
     

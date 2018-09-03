@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://XuLongjia.github.io/"/>
-  <updated>2018-09-03T09:40:58.048Z</updated>
+  <updated>2018-09-03T15:14:16.240Z</updated>
   <id>https://XuLongjia.github.io/</id>
   
   <author>
@@ -15,6 +15,38 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>自己动手写PCA</title>
+    <link href="https://XuLongjia.github.io/2018/09/03/%E8%87%AA%E5%B7%B1%E5%8A%A8%E6%89%8B%E5%86%99PCA/"/>
+    <id>https://XuLongjia.github.io/2018/09/03/自己动手写PCA/</id>
+    <published>2018-09-03T14:51:44.000Z</published>
+    <updated>2018-09-03T15:14:16.240Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;PCA的简单介绍：&quot;&gt;&lt;a href=&quot;#PCA的简单介绍：&quot; class=&quot;headerlink&quot; title=&quot;PCA的简单介绍：&quot;&gt;&lt;/a&gt;PCA的简单介绍：&lt;/h2&gt;&lt;p&gt;PCA,全称为Principal Component
+        
+      
+    
+    </summary>
+    
+      <category term="机器学习" scheme="https://XuLongjia.github.io/categories/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="https://XuLongjia.github.io/tags/Python/"/>
+    
+      <category term="机器学习" scheme="https://XuLongjia.github.io/tags/%E6%9C%BA%E5%99%A8%E5%AD%A6%E4%B9%A0/"/>
+    
+      <category term="特征工程" scheme="https://XuLongjia.github.io/tags/%E7%89%B9%E5%BE%81%E5%B7%A5%E7%A8%8B/"/>
+    
+      <category term="降维" scheme="https://XuLongjia.github.io/tags/%E9%99%8D%E7%BB%B4/"/>
+    
+  </entry>
   
   <entry>
     <title>Anaconda的常用指令</title>

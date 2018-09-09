@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://XuLongjia.github.io/"/>
-  <updated>2018-09-04T01:23:33.781Z</updated>
+  <updated>2018-09-09T08:45:01.966Z</updated>
   <id>https://XuLongjia.github.io/</id>
   
   <author>
@@ -15,6 +15,35 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>两道笔试题分享</title>
+    <link href="https://XuLongjia.github.io/2018/09/09/%E4%B8%A4%E9%81%93%E7%AC%94%E8%AF%95%E9%A2%98%E5%88%86%E4%BA%AB/"/>
+    <id>https://XuLongjia.github.io/2018/09/09/两道笔试题分享/</id>
+    <published>2018-09-09T08:16:51.000Z</published>
+    <updated>2018-09-09T08:45:01.966Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;最近在忙着秋招笔试,几乎每天都有笔试，心累。虽然我的各种数据结构与算法知识是一个月前刚刚学习的，但是也投了很多算法岗，去凑个热闹。&lt;br&gt;下面分享两道我能够做出来的习题(虽然大家觉得很简单，但对我这种菜鸟才说，第一次AC还是蛮激动的)。&lt;/p&gt;
+&lt;h2
+        
+      
+    
+    </summary>
+    
+      <category term="编程练习" scheme="https://XuLongjia.github.io/categories/%E7%BC%96%E7%A8%8B%E7%BB%83%E4%B9%A0/"/>
+    
+    
+      <category term="Python" scheme="https://XuLongjia.github.io/tags/Python/"/>
+    
+      <category term="算法习题" scheme="https://XuLongjia.github.io/tags/%E7%AE%97%E6%B3%95%E4%B9%A0%E9%A2%98/"/>
+    
+  </entry>
   
   <entry>
     <title>自己动手写PCA</title>
